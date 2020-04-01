@@ -17,7 +17,7 @@
     "jsforce": "^1.9.1",
     "jwks-rsa": "^1.2.1",
     "mongojs": "^2.5.0",
-    "mongoose": "^5.0.6",
+    "mongoose": "^5.7.5",
     "nodejs-mobile-react-native": "^0.3.2",
     "path": "^0.12.7",
     "underscore": "^1.8.3",
