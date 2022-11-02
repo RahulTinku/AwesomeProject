@@ -18,7 +18,7 @@
     "jwks-rsa": "^1.2.1",
     "mongojs": "^2.5.0",
     "mongoose": "^5.0.6",
-    "nodejs-mobile-react-native": "^0.3.2",
+    "nodejs-mobile-react-native": "^0.8.2",
     "path": "^0.12.7",
     "underscore": "^1.8.3",
     "utill": "^0.1.3"
